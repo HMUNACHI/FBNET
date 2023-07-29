@@ -16,8 +16,11 @@ F-BNet's full pipeline.
 ![Alt text](/images/network.png "Diagram")
 The internals of the bottleneck network.
 
+![Alt text](/images/equations.png "Diagram")
+The information leaking and racing loss function.
+
 # Results
-![Alt text](/images/network.png "Diagram")
+![Alt text](/images/scores.png "Diagram")
 
 # Usage
 * Step 1: Ensure you have Jax, Flax, Optax, Haiku and Jax-Dataoader setup, full dependenceies can be found in the provided environment.yaml file. All can be installed using "pip install <package-name>" but for GPU access, please checkout the installation guide on Jax's repository here: https://github.com/google/jax#installation
