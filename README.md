@@ -7,14 +7,14 @@ Understanding human intelligence through computational models mirroring the brai
 Henry Ndubuaku\
 ndubuakuhenry@gmail.com\
 [Linkedin](https://www.linkedin.com/in/henry-ndubuaku-7b6350b8/)\
-Full Paper: 
+[Paper](https://www.linkedin.com/in/henry-ndubuaku-7b6350b8/)
 
 # Details
 ![Alt text](/images/bottleneck.png "Diagram")
-F-BNet's full pipeline.\
+F-BNet's full pipeline.
 
 ![Alt text](/images/network.png "Diagram")
-The internals of the bottleneck network.\
+The internals of the bottleneck network.
 
 # Results
 ![Alt text](/images/network.png "Diagram")
