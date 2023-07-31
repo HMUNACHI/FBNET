@@ -7,7 +7,7 @@ Computational models that mirror the brain's behaviour can help us understand hu
 Henry Ndubuaku\
 ndubuakuhenry@gmail.com\
 [Linkedin](https://www.linkedin.com/in/henry-ndubuaku-7b6350b8/)\
-[Paper](https://www.linkedin.com/in/henry-ndubuaku-7b6350b8/)
+[Paper](https://www.biorxiv.org/content/10.1101/2023.07.30.551149v1)
 
 # Details
 ![Alt text](/images/bottleneck.png "Diagram")
