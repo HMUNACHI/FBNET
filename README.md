@@ -25,7 +25,7 @@ The information leaking and racing loss function.
 # Usage
 * Step 1: Ensure you have Jax, Flax, Optax, Haiku and Jax-Dataoader setup, full dependenceies can be found in the provided environment.yaml file. All can be installed using "pip install <package-name>" but for GPU access, please checkout the installation guide on Jax's repository here: https://github.com/google/jax#installation
 
-* Step 2: You can run from scratch, or download the globally pretrained weigthts from here: . preprocessed dataset for each subject can also be be found in the same link.
+* Step 2: You can run from scratch, or download the globally pretrained weigthts from [here](https://drive.google.com/drive/folders/1iMnx18nGSaqKTVeeTGidWru2bFt6ZBK0?usp=sharing). preprocessed dataset for each subject can also be be found in the same link.
 
 * Step 3: Place the downloaded files (checkpoints and data) in the outer FBNET folder.
 
